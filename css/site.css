@@ -1,0 +1,14 @@
+.jumbotron .temporary {
+	background: url("~/images/background.jpeg");
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+}
+
+.temporary > h1 {
+	color: white;
+}
+
+.temporary > p {
+	color: white;
+}
