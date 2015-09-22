@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Visual Calc</h1>
-<p>Coming soon!</p>
-</body>
-</html>
