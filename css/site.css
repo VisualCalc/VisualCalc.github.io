@@ -4,8 +4,4 @@
 
 .html {
 	background: url("http://imgsrc.hubblesite.org/hu/db/images/hs-2015-01-c-1920x1200_wallpaper.jpg") no-repeat center center fixed;
-	-webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 }
