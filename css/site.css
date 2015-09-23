@@ -1,15 +1,20 @@
 .temporary {
-	color: white;
+	color: green;
 }
 
-html {
+.temporary-background {
 	background: url("http://imgsrc.hubblesite.org/hu/db/images/hs-2002-11-d-1920x1200_wallpaper.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    height: 100%;
+    overflow: hidden;
 }
 
-body {
+html, body {
 	background: transparent;
+	height: 100%;
+	width: 100%;
+	overflow:hidden;
 }
